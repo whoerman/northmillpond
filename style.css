@@ -6,29 +6,6 @@ body {
     -o-background-size: cover;
   }
 
-
-.HPlogo {
-padding: 3px;
-background-color: black;
-}
-
-.introh4 {
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 1.2rem;
-    font-weight: bold;
-}
-
-.introp {
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: .9rem;
-    font-weight: bold;
-}
-
-@media only screen and (min-device-width: 320px) and (max-device-width: 568px)
-and (-webkit-device-pixel-ratio: 2) and (device-aspect-ratio: 40/71) and (orientation:portrait)
-{
-    .introp {
-        font-family: Arial, Helvetica, sans-serif;
-        font-size: .6rem;
-    }
-}
+  h1 {
+    font-size: 1rem; 
+  }
