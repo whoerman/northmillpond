@@ -6,9 +6,9 @@ body {
   -o-background-size: cover;
 }
 
-/* .nav-item {
+.nav-item {
   font-size: 1.5rem;
-} */
+}
 
 /* .nav-item :hover {
   font-weight: bolder;
