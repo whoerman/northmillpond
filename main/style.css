@@ -1,0 +1,19 @@
+body {
+  background: url("./assets/images/northmillpond.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+.nav-item {
+  font-size: 1.5rem;
+}
+
+.nav-item :hover {
+  font-weight: bolder;
+  font-style: italic;
+  background-color: #f1f1f1;
+} 
+
+
