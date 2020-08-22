@@ -3,3 +3,5 @@ var animationEnd = 'webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimation
 
 //defining the variables for animations to be used for animate.css
 var animationShake = "animated shake";
+
+Handlebars.registerPartial('navbar', '{{navbar}}');
