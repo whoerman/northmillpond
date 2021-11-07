@@ -19,6 +19,9 @@ let navheader = '<nav class="navbar navbar-expand-lg navbar-light bg-light"> \
     <li class="nav-item events"> \
       <a class="nav-link" href="./info.html">NMP Info</a> \
     </li> \
+    <li class="nav-item"> \
+    <a class="nav-link" href="./wildlife.html">Flora & Fauna</a> \
+    </li> \
     <li class="nav-item events"> \
       <a class="nav-link" href="./park.html">McEachern Park</a> \
     </li> \
@@ -37,12 +40,9 @@ let navheader = '<nav class="navbar navbar-expand-lg navbar-light bg-light"> \
     <li class="nav-item"> \
       <a class="nav-link" href="./support.html">Support Us!</a> \
     </li> \
-    <li class="nav-item"> \
-    <a class="nav-link" href="./wildlife.html">Flora & Fauna</a> \
-  </li> \
   </ul> \
 </div> \
 </nav>'
 
 document.getElementById("navbardiv").innerHTML +=
-navheader;
+  navheader;
