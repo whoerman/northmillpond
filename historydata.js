@@ -178,7 +178,7 @@ let historyCardData = [{
   },{
     description: 'Ruins of Mill 1898',
     cardtpe: 'pictureCard',
-    imageSource: 'history/898ruinsofmill.jpg',
+    imageSource: 'history/1898ruinsofmill.jpg',
     imageAlt: '1898 mill ruins',
     cardTitle: "Ruins of Mill 1898",
     cardText: "The last mill on the Maplewood causeway ceased operation in 1888, more than 200 years after \
